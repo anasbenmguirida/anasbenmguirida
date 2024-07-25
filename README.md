@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anas Benmguirida</h1>
 <h3 align="center">A software engineering student</h3>
 
-- 🔭 I’m currently working on **an web application for students**
+- 🔭 I’m currently working on **an web application for an online shop**
 
 - 🌱 I’m currently learning **Angular**
 
