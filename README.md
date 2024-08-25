@@ -1,4 +1,4 @@
-<h1 align="center">Hello there,I'm Benmguirida anas</h1>
+<h1 align="center">Hello there ! I'm Benmguirida anas</h1>
 <h3 align="center">A passionate Software engineering student</h3>
 
 - 🔭 I’m currently working on **online web store**
